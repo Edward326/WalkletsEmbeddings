@@ -1,0 +1,18 @@
+1.What are Embeddings?
+Depsre embeddings, ce sunt ele, utilitati?
+Despre tiporuile de info care le preserva algoritmii in fct de inputurile de embedduit 
+Despre RandomWalk based algorithm
+Despre DeepWalk si ce face el
+Problema pe care o prezinta,
+Rezolvarea prin Walklets
+
+2.Walklets
+Motivatia
+Descirere Algorim
+
+3.Walklets testing
+strucutra tetsului
+Dataset1, depsre el
+interp (imagine+ explicatie)test1, (imagine+ explicatie)test2
+Dataset2, depsre el
+interp (imagine+ explicatie)test1, (imagine+ explicatie)test2
