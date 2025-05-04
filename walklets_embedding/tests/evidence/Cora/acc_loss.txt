@@ -1,0 +1,72 @@
+
+-->Starting evaluation of loss and uF1(Test2)...
+Percentage: 10%
+	Iteration 1
+		RandomWalk → Loss: 0.050386, uF1: 0.603774
+		Walklets (k=2) → Loss: 0.054584, uF1: 0.642330
+		Walklets (k=5) → Loss: 0.073880, uF1: 0.643560
+		Walklets (k=8) → Loss: 0.081060, uF1: 0.660377
+	Iteration 2
+		RandomWalk → Loss: 0.050386, uF1: 0.603774
+		Walklets (k=2) → Loss: 0.054584, uF1: 0.642330
+		Walklets (k=5) → Loss: 0.073880, uF1: 0.643560
+		Walklets (k=8) → Loss: 0.081060, uF1: 0.660377
+	Iteration 3
+		RandomWalk → Loss: 0.050386, uF1: 0.603774
+		Walklets (k=2) → Loss: 0.054584, uF1: 0.642330
+		Walklets (k=5) → Loss: 0.073880, uF1: 0.643560
+		Walklets (k=8) → Loss: 0.081060, uF1: 0.660377
+Percentage: 50%
+	Iteration 1
+		RandomWalk → Loss: 0.363180, uF1: 0.632201
+		Walklets (k=2) → Loss: 0.340356, uF1: 0.666913
+		Walklets (k=5) → Loss: 0.341055, uF1: 0.687592
+		Walklets (k=8) → Loss: 0.398868, uF1: 0.672083
+	Iteration 2
+		RandomWalk → Loss: 0.363180, uF1: 0.632201
+		Walklets (k=2) → Loss: 0.340356, uF1: 0.666913
+		Walklets (k=5) → Loss: 0.341055, uF1: 0.687592
+		Walklets (k=8) → Loss: 0.398868, uF1: 0.672083
+	Iteration 3
+		RandomWalk → Loss: 0.363180, uF1: 0.632201
+		Walklets (k=2) → Loss: 0.340356, uF1: 0.666913
+		Walklets (k=5) → Loss: 0.341055, uF1: 0.687592
+		Walklets (k=8) → Loss: 0.398868, uF1: 0.672083
+Percentage: 90%
+	Iteration 1
+		RandomWalk → Loss: 0.550508, uF1: 0.649446
+		Walklets (k=2) → Loss: 0.528799, uF1: 0.708487
+		Walklets (k=5) → Loss: 0.495188, uF1: 0.756458
+		Walklets (k=8) → Loss: 0.568742, uF1: 0.704797
+	Iteration 2
+		RandomWalk → Loss: 0.550508, uF1: 0.649446
+		Walklets (k=2) → Loss: 0.528799, uF1: 0.708487
+		Walklets (k=5) → Loss: 0.495188, uF1: 0.756458
+		Walklets (k=8) → Loss: 0.568742, uF1: 0.704797
+	Iteration 3
+		RandomWalk → Loss: 0.550508, uF1: 0.649446
+		Walklets (k=2) → Loss: 0.528799, uF1: 0.708487
+		Walklets (k=5) → Loss: 0.495188, uF1: 0.756458
+		Walklets (k=8) → Loss: 0.568742, uF1: 0.704797
+
+===== Final Averaged Results =====
+RandomWalk 10%: Avg uF1 = 0.603774, Avg Loss = 0.050386
+RandomWalk 50%: Avg uF1 = 0.632201, Avg Loss = 0.363180
+RandomWalk 90%: Avg uF1 = 0.649446, Avg Loss = 0.550508
+
+
+
+Walklets (scale k=2)
+10%: → Avg uF1 = 0.642330, Avg Loss = 0.054584
+50%: → Avg uF1 = 0.666913, Avg Loss = 0.340356
+90%: → Avg uF1 = 0.708487, Avg Loss = 0.528799
+
+Walklets (scale k=5)
+10%: → Avg uF1 = 0.643560, Avg Loss = 0.073880
+50%: → Avg uF1 = 0.687592, Avg Loss = 0.341055
+90%: → Avg uF1 = 0.756458, Avg Loss = 0.495188
+
+Walklets (scale k=8)
+10%: → Avg uF1 = 0.660377, Avg Loss = 0.081060
+50%: → Avg uF1 = 0.672083, Avg Loss = 0.398868
+90%: → Avg uF1 = 0.704797, Avg Loss = 0.568742

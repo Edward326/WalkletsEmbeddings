@@ -1,0 +1,56 @@
+Percentage: 10%
+	Iteration 1
+		RandomWalk → Loss: 0.190370, uF1: 0.516129
+		Walklets (k=2) → Loss: 0.235112, uF1: 0.741935
+		Walklets (k=3) → Loss: 0.221250, uF1: 0.483871
+	Iteration 2
+		RandomWalk → Loss: 0.190370, uF1: 0.516129
+		Walklets (k=2) → Loss: 0.235112, uF1: 0.741935
+		Walklets (k=3) → Loss: 0.221250, uF1: 0.483871
+	Iteration 3
+		RandomWalk → Loss: 0.190370, uF1: 0.516129
+		Walklets (k=2) → Loss: 0.235112, uF1: 0.741935
+		Walklets (k=3) → Loss: 0.221250, uF1: 0.483871
+Percentage: 50%
+	Iteration 1
+		RandomWalk → Loss: 0.186224, uF1: 1.000000
+		Walklets (k=2) → Loss: 0.307780, uF1: 0.882353
+		Walklets (k=3) → Loss: 0.428023, uF1: 0.705882
+	Iteration 2
+		RandomWalk → Loss: 0.186224, uF1: 1.000000
+		Walklets (k=2) → Loss: 0.307780, uF1: 0.882353
+		Walklets (k=3) → Loss: 0.428023, uF1: 0.705882
+	Iteration 3
+		RandomWalk → Loss: 0.186224, uF1: 1.000000
+		Walklets (k=2) → Loss: 0.307780, uF1: 0.882353
+		Walklets (k=3) → Loss: 0.428023, uF1: 0.705882
+Percentage: 90%
+	Iteration 1
+		RandomWalk → Loss: 0.151551, uF1: 1.000000
+		Walklets (k=2) → Loss: 0.254592, uF1: 1.000000
+		Walklets (k=3) → Loss: 0.342460, uF1: 1.000000
+	Iteration 2
+		RandomWalk → Loss: 0.151551, uF1: 1.000000
+		Walklets (k=2) → Loss: 0.254592, uF1: 1.000000
+		Walklets (k=3) → Loss: 0.342460, uF1: 1.000000
+	Iteration 3
+		RandomWalk → Loss: 0.151551, uF1: 1.000000
+		Walklets (k=2) → Loss: 0.254592, uF1: 1.000000
+		Walklets (k=3) → Loss: 0.342460, uF1: 1.000000
+
+===== Final Averaged Results =====
+RandomWalk 10%: Avg uF1 = 0.516129, Avg Loss = 0.190370
+RandomWalk 50%: Avg uF1 = 1.000000, Avg Loss = 0.186224
+RandomWalk 90%: Avg uF1 = 1.000000, Avg Loss = 0.151551
+
+
+
+Walklets (scale k=2)
+10%: → Avg uF1 = 0.741935, Avg Loss = 0.235112
+50%: → Avg uF1 = 0.882353, Avg Loss = 0.307780
+90%: → Avg uF1 = 1.000000, Avg Loss = 0.254592
+
+Walklets (scale k=3)
+10%: → Avg uF1 = 0.483871, Avg Loss = 0.221250
+50%: → Avg uF1 = 0.705882, Avg Loss = 0.428023
+90%: → Avg uF1 = 1.000000, Avg Loss = 0.342460
