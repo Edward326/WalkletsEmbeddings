@@ -1,4 +1,4 @@
-# *This folder represents the implementation of the embedding algorithm Walklets, for graph encoding*  
+# *This folder represents the implementation of the embedding algorithm Walklets, for graph embeddings*  
 **<span style="color:red">"Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings"**</span>  
 <https://arxiv.org/abs/1605.02115>
 
@@ -12,6 +12,6 @@
 - docs=containing the pptx
 - models_emb=embeddings of the nodes of the graphs used for training
 - tests=notebook containing the test file of the algorithm
-- utils=includes the methods used in visualisation of the test results, and for using pygraphs and and artifical made of the Word2Vec model(gensim not mantained with the current numpy version)
+- utils=includes the methods used in visualisation of the test results, and for using pygraphs and and artifical made of the Word2Vec model(gensim not mantained with the current numpy version,DEPRECATED)
 
 *Credits:Edward326*
