@@ -14,5 +14,5 @@
 - tests=notebook containing the test file of the algorithm
 - utils=includes the methods used in visualisation of the test results, and for using pygraphs and and artifical made of the Word2Vec model(gensim not mantained with the current numpy version,DEPRECATED)
 
-**presenation:https://drive.google.com/drive/folders/1h3yvwWhB4GEoDrA7CAzkbA1m7rIkCHNw?usp=sharing**
+**presenation:https://drive.google.com/drive/folders/1h3yvwWhB4GEoDrA7CAzkbA1m7rIkCHNw?usp=sharing**  
 *Credits:Edward326*
